@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+.env/
+env/
+.CondaPkg/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Julia cache & artifacts
+Manifest.toml
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+
+# Large raw datasets (download separately from FlyWire VNC challenge)
+data/raw/*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+*.log

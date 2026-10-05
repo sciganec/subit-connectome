@@ -1,0 +1,6 @@
+[deps]
+click = ""
+gitpython = ""
+setuptools = ""
+wandb = ""
+requests = ""
