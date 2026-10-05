@@ -3,6 +3,7 @@ venv/
 .env/
 env/
 .CondaPkg/
+vendor/
 
 # Python cache
 __pycache__/

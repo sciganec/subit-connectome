@@ -1,8 +1,0 @@
-data/
-sol/
-.DS_Store
-.vscode/
-greedy/__pycache__/*.pyc
-greedy/*.pkl
-smooth_min/__pycache__/*.pyc
-.CondaPkg
